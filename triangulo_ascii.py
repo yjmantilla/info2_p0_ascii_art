@@ -48,4 +48,4 @@ if __name__ == "__main__":
     inst = abc_triangle(10)
     print(inst)
     print('NeuroCo')
-    print('Prueba')
+print('Andres Ruiz')
