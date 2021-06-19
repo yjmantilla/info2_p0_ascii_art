@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 18 20:30:01 2021
-
-@author: danie
-"""
-
 
 
 def abc_triangle(n):
@@ -51,6 +44,6 @@ def abc_triangle(n):
     lista += lista[-2::-1]
     return lista
 
-inst = abc_triangle(10)
-print(inst)
-    
+if __name__ == "__main__":
+    inst = abc_triangle(10)
+    print(inst)
