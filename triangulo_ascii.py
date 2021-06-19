@@ -47,3 +47,4 @@ def abc_triangle(n):
 if __name__ == "__main__":
     inst = abc_triangle(10)
     print(inst)
+    print('NeuroCo')
